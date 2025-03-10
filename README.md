@@ -17,6 +17,14 @@ Steepest incline in United States ~45% (Hawaii)
 
 Heaviest non - commercial vehicle HUMMER EV > 9000 lbs
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 
 ## Calculations
 Assuming weight of 10000 lbs (4535.924 kg) , will be working 4500 kg (9920.802 lbs) for duration 
