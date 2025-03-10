@@ -20,6 +20,7 @@ Heaviest non - commercial vehicle HUMMER EV > 9000 lbs
 
 ## Calculations
 Assuming weight of 10000 lbs (4535.924 kg) , will be working 4500 kg (9920.802 lbs) for duration 
+
 F_needed = F_parallel + F_friction
 
 F_parallel = mg * sin(theta)
