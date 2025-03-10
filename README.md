@@ -14,3 +14,5 @@ Convert brake to a resistor load, potentially convert the servo brake to a gener
 With a more efficient generator does a battery bank even need to exist? Yes it would increase waste energy however reducing initial cost by removing batteries.
 
 Steepest incline in United States ~45% (Hawaii)
+
+Heaviest non - commercial vehicle HUMMER EV > 9000 lbs
