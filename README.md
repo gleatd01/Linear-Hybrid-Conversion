@@ -19,7 +19,7 @@ Heaviest non - commercial vehicle HUMMER EV > 9000 lbs
 
 ```mermaid
 graph TD;
-    A-->B;
+    Generator-->Power Controller;
     A-->C;
     B-->D;
     C-->D;
