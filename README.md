@@ -19,7 +19,7 @@ Heaviest non - commercial vehicle HUMMER EV > 9000 lbs
 
 ```mermaid
 graph TD;
-    Generator-->Power_Controller==>Servo_Motor;
+    Generator-->120V/240V/480V-->Power_Controller==>Servo_Motor;
     Accelerator-->Servo_Controller==>Servo_Motor;
     Tachometer-->RPM-->MPH-->Servo_Controller;
     Brake-->Servo_Controller;
