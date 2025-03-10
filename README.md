@@ -16,3 +16,16 @@ With a more efficient generator does a battery bank even need to exist? Yes it w
 Steepest incline in United States ~45% (Hawaii)
 
 Heaviest non - commercial vehicle HUMMER EV > 9000 lbs
+
+
+## Calculations
+Assuming weight of 10000 lbs (4535.924 kg) , will be working 4500 kg (9920.802 lbs) for duration 
+F_needed = F_parallel + F_friction
+
+F_parallel = mg * sin(theta)
+
+F_friction = mu * F_normal
+
+F_normal = mg * cos(theta)
+
+ 
