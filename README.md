@@ -22,7 +22,7 @@ graph TD;
     Generator-->120V/240V/480V-->Power_Controller==>Servo_Motor;
     Accelerator-->Servo_Controller==>Servo_Motor;
     Existing_Axle-->Tachometer-->RPM-->MPH-->Servo_Controller;
-    Brake-->Servo_Controller;
+    Brake-->Engage_Resistance_Brake-->Enable_Generator-->Servo_Controller;
     Servo_Controller-->Speedometer;
 ```
 
