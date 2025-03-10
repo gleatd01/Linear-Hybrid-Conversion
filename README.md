@@ -21,7 +21,7 @@ Heaviest non - commercial vehicle HUMMER EV > 9000 lbs
 graph TD;
     Generator-->Power_Controller==>Servo_Motor;
     Accelerator-->Servo_Controller==>Servo_Motor;
-    Techometer-->Servo_Controller;
+    Tachometer-->RPM-->MPH-->Servo_Controller;
     Brake-->Servo_Controller;
     Servo_Controller-->Speedometer;
 ```
