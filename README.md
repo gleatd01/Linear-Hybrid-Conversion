@@ -38,4 +38,3 @@ F_friction = mu * F_normal
 
 F_normal = mg * cos(theta)
 
- 
